@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="360" version="1.1" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient847" x1="499.72" x2="600" y1="277.68" y2="360" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f9f9f9" offset="0"/>
+   <stop stop-color="#ececec" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1435" x1="333.1" x2="449.81" y1="174.22" y2="296.25" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g stroke-opacity="0">
+  <path d="m600 360v-250.58l-455.68 250.58z" fill="url(#linearGradient1435)" opacity=".60131" style="mix-blend-mode:screen;paint-order:markers stroke fill"/>
+  <path d="m600 233.54-237.81 126.46h237.81z" fill="url(#linearGradient847)" opacity=".69935" style="mix-blend-mode:screen;paint-order:markers stroke fill"/>
+ </g>
+</svg>
